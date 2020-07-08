@@ -1,10 +1,10 @@
 uniform vec4 u_intersectionColor;
 uniform float u_intersectionWidth;
 
-bool inSensorShadow(vec3 coneVertexWC, czm_ellipsoid ellipsoidEC, vec3 pointWC)
+bool inSensorShadow(vec3 coneVertexWC, vec3 pointWC)
 {
     // Diagonal matrix from the unscaled ellipsoid space to the scaled space.    
-    vec3 D = ellipsoidEC.inverseRadii;
+    vec3 D = czm_ellipsoidInverseRadii;
 
     // Sensor vertex in the scaled ellipsoid space
     vec3 q = D * coneVertexWC;
