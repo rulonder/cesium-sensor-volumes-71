@@ -20,7 +20,7 @@
     "almond": "^0.3.3",
     "browser-sync": "^2.18.8",
     "del": "^2.2.2",
-    "electron": "1.6.5",
+    "electron": "9.1.0",
     "event-stream": "^3.3.4",
     "globby": "^6.1.0",
     "gulp": "^3.9.0",
