@@ -32,7 +32,7 @@
     "gulp-util": "^3.0.8",
     "gulp-xo": "^0.15.0",
     "jasmine-core": "^2.5.2",
-    "karma": "^1.6.0",
+    "karma": "^6.3.16",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
     "karma-electron-launcher": "^0.2.0",
