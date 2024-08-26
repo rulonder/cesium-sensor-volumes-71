@@ -6,6 +6,13 @@
 
 A Cesium plugin for visualizing sensor volumes. Based on [cesium-sensors](https://github.com/AnalyticalGraphicsInc/cesium-sensors) and evolved to support more recent Cesium versions.
 
+# NOT MAINTAINED
+
+See for a maintained and more modern version https://github.com/rulonder/cesium-sensors-es6,
+
+https://www.npmjs.com/package/cesium-sensors-es6
+
+
 ## Install
 
 ```sh
