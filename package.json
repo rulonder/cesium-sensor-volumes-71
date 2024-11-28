@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "almond": "^0.3.3",
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.27.10",
     "del": "^2.2.2",
     "electron": "1.6.5",
     "event-stream": "^3.3.4",
@@ -32,7 +32,7 @@
     "gulp-util": "^3.0.8",
     "gulp-xo": "^0.15.0",
     "jasmine-core": "^2.5.2",
-    "karma": "^1.6.0",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
     "karma-electron-launcher": "^0.2.0",
